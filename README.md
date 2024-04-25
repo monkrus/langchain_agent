@@ -1,11 +1,13 @@
 Here we explore different options with LLMs and LangChain, from the primitive ones to more complex.
 
-prerequsites:
+Prerequsites:
 
 - install Anaconda on your machine
-- install virtual environment by  using `CTRL+SHIFT+P` command in VSC editor.
+- install virtual environment by  using `CTRL+SHIFT+P` command in VSC editor
+
 OR
 `python -m venv myenv` and activate `myenv\Scripts\activate`
+
 OR
 `conda create -n  myenv pyth==3.12` and activate it.
 

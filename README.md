@@ -13,13 +13,11 @@ OR
 `pip install langchain`
 `pip install openai`
 OR
-create requirements.txt file and run `pip install -r /path/to/requirements.txt`
-- install Jupiter kernel
-3. `pip install ipkernel`
+create requirements.txt file and run `pip install -r /path/to/requirements.txt`, e.g.pro\requirements.txt
 
-NOTE! If you are using VSC and having problem with `Pylance unresolved import` error, 
-please create a .vscode folder and it`s content as shown here in the project.
-
-project start: 
+For Gemini:
+- pip install streamlit
+- pip install python-dotenv 
+- pip install google-generativeai
 
  

@@ -22,4 +22,7 @@ For Gemini:
 - pip install python-dotenv 
 - pip install google-generativeai
 
+To better recognize the images scanned at angle:
+- pip install opencv-python
+- pip install numpy
  
